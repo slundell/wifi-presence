@@ -1,0 +1,3 @@
+
+
+Switch Vtl_Presence_NameOfPersonMobile_WiFiBroadcast "NameOfPerson WiFi Broadcast" {mqtt="<[mosquitto:/home/presence/nameofperson/#:state:ON:seen]", expire="10m,command=OFF"}

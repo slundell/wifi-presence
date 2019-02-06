@@ -1,0 +1,3 @@
+*.json
+*.json.backup
+!*-example.json
